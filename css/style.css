@@ -379,11 +379,9 @@ span.shortline2 {
 	background-color:#fff;
 	margin-top: 3%;
 }
-span.longline3 {
+.longline3 {
 	width:285px;
-	height:2px;
 	display:inline-block;
-	background-color:#A1B3A4;
 	margin-top: 3%;
 }
 span.shortline3 {

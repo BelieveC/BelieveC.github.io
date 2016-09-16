@@ -1117,4 +1117,16 @@ footer span.glyphicon.glyphicon-chevron-up {
 }
 }
 
+.tech{
+	list-style: none;
+	margin-top: 1em;
+}
+.techlang{
+	display: inline-block;
+}
+.techlang img{
+	height: 32px;
+	width: 32px !important;
+}
+
 

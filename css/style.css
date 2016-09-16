@@ -86,8 +86,8 @@ body {
 }
 .navbar-inverse .navbar-nav>li>a {
     color: #00c2dc;
-    font-size: 1.2em;
-    font-weight: normal;
+    font-size: 1.6em;
+    font-weight: bold;
 }
 @media (min-width: 768px) {
 	.navbar-wrapper {
@@ -1127,6 +1127,9 @@ footer span.glyphicon.glyphicon-chevron-up {
 .techlang img{
 	height: 32px;
 	width: 32px !important;
+}
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+   color: #00c2dc
 }
 
 
